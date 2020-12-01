@@ -1,0 +1,23 @@
+.header {
+    text-align: center;
+    color: cornsilk;
+    font-size: 50px;
+}
+
+.containerHead {
+    background-color: #0624a8;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.trainAdd {
+    text-align: center;
+}
+
+.trythis {
+    background-color: rgb(246, 250, 249);
+}
+
+.table {
+    background-color: white;
+}
